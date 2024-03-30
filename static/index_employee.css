@@ -1,0 +1,46 @@
+body {
+    background-color: #dcf0d7;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: #3e4845;
+}
+h2 {
+    text-align: center;
+    color: #3e4845;
+}
+table {
+    height: 180px;
+    width: 280px;
+    background-color: #bff4cb;
+    margin-top: 100px;
+}
+td {
+    text-align: center;
+    height: 160px;
+    width: 250px;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+}
+input:hover {
+    background-color: #449127;
+}
+input.two {
+    padding-top: 70px;
+    padding-right: 100px;
+    padding-bottom: 70px;
+    padding-left: 100px;
+}
+input.three {
+    padding-top: 70px;
+    padding-right: 47px;
+    padding-bottom: 70px;
+    padding-left: 48px;
+}

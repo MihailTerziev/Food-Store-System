@@ -1,0 +1,54 @@
+@import "design.css";
+
+
+#table1 {
+    height: auto;
+    width: auto;
+    background-color: #bff4cb;
+    margin-top: 100px;
+    border: none;
+}
+input.one {
+    padding-top: 60px;
+    padding-right: 73px;
+    padding-bottom: 60px;
+    padding-left: 74px;
+    margin-top: 10px;
+}
+input.two {
+    padding-top: 60px;
+    padding-right: 80px;
+    padding-bottom: 60px;
+    padding-left: 80px;
+}
+input.three {
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+}
+input.four {
+    padding-top: 60px;
+    padding-right: 65px;
+    padding-bottom: 60px;
+    padding-left: 64px;
+}
+input.five {
+    padding-top: 60px;
+    padding-right: 78px;
+    padding-bottom: 60px;
+    padding-left: 79px;
+}
+input.six {
+    padding-top: 60px;
+    padding-right: 75px;
+    padding-bottom: 60px;
+    padding-left: 76px;
+}
+input.seven {
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-right: 19px;
+    padding-bottom: 7px;
+    padding-left: 16px;
+}

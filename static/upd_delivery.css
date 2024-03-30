@@ -1,0 +1,10 @@
+@import "design.css";
+
+
+table {
+    border: 1px solid #698b85;
+    height: 100px;
+    width: 550px;
+    background-color: #bff4cb;
+    margin-top: 50px;
+}

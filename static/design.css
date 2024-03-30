@@ -1,0 +1,58 @@
+body {
+    background-color: #dcf0d7;
+}
+table {
+    border: 1px solid #698b85;
+    height: 200px;
+    width: 400px;
+    background-color: #bff4cb;
+    margin-top: 170px;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #3e4845;
+}
+h2 {
+    text-align: center;
+    color: #3e4845;
+}
+td {
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    color: #3e4845;
+}
+input[type=button], input[type=submit], input[type=reset], input[type=password] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+}
+input[type=text], input[type=password] {
+    border-collapse: collapse;
+    background-color: #eef8f4;
+    border: none;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+input[type=submit]:hover, input[type=reset]:hover {
+    background-color: #449127;
+}
+input.one {
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+input.two {
+    margin-top: 10px;
+    padding-top: 7px;
+    padding-right: 19px;
+    padding-bottom: 7px;
+    padding-left: 16px;
+}

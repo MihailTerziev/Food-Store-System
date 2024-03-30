@@ -1,0 +1,70 @@
+body {
+    background-color: #dcf0d7;
+}
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: #3e4845;
+}
+h2 {
+    text-align: center;
+    color: #3e4845;
+}
+table {
+    height: 495px;
+    width: 480px;
+    background-color: #bff4cb;
+    margin-top: 20px;
+}
+td {
+    text-align: center;
+    height: 160px;
+    width: 250px;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 25px;
+}
+input:hover {
+    background-color: #449127;
+}
+input.one {
+    padding-top: 69px;
+    padding-right: 106px;
+    padding-bottom: 68px;
+    padding-left: 106px;
+}
+input.two {
+    padding-top: 68px;
+    padding-right: 100px;
+    padding-bottom: 69px;
+    padding-left: 100px;
+}
+input.three {
+    padding-top: 70px;
+    padding-right: 47px;
+    padding-bottom: 70px;
+    padding-left: 48px;
+}
+input.four {
+    padding-top: 70px;
+    padding-right: 107px;
+    padding-bottom: 70px;
+    padding-left: 108px;
+}
+input.five {
+    padding-top: 67px;
+    padding-right: 100px;
+    padding-bottom: 68px;
+    padding-left: 100px;
+}
+input.six {
+    padding-top: 67px;
+    padding-right: 105px;
+    padding-bottom: 68px;
+    padding-left: 105px;
+}
