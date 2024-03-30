@@ -1,0 +1,1 @@
+<?php header('Location: http://localhost/StoreUpdated/options/add_client.php?'); ?>
